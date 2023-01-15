@@ -1,9 +1,9 @@
 :root {
-  --background: #F4F0EB;
-  --text: #151616;
-  --link: #797575;
+  --background: #0c0c0c;
+  --text: #ffffff;
+  --link: #fefefe;
   --white: #fff;
-  --button: #893B67;
+  --button: #fa9a2c;
 }
 
 *{
@@ -110,7 +110,7 @@ textarea:focus, input:focus, select:focus {
 
 .header-mobile{
   padding: 20px;
-  background: #FAF0E2;
+  background: #fcfcfc;
 }
 
 .header-mobile input, .header-desktop input{
@@ -118,12 +118,12 @@ textarea:focus, input:focus, select:focus {
   background: transparent;
   width: 100%;
   text-align: center;
-  border: 1px solid #703A44;
+  border: 1px solid #000000;
   font-weight: 700;
   font-size: 20px;
   line-height: 27px;
   color: var(--text);
-  background-image: url("/images/header/lupa-input.svg");
+  background-image: url("/imagens/lupaicone.png");
   background-repeat: no-repeat;
   background-position: 12px;
 }
@@ -146,7 +146,7 @@ textarea:focus, input:focus, select:focus {
 }
 
 .shipping{
-  background: #F3DAB4;
+  background: #090909;
   text-align: center;
   padding: 10px;
   
@@ -160,7 +160,7 @@ textarea:focus, input:focus, select:focus {
   font-size: 20px;
   line-height: 27px;
 
-  color: #000000;
+  color: #ffffff;
 }
 
 .lista-links-mobile{
@@ -201,7 +201,7 @@ textarea:focus, input:focus, select:focus {
 
 
 .footer-mobile, .footer-desktop{
-  background: #F3DAB4;
+  background: #0f0f0e;
   display: flex;
 }
 

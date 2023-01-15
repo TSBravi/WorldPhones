@@ -1,0 +1,74 @@
+[
+{
+        "image": "/imagens/iphone14pro.jpeg", 
+        "name": "iPhone 14 pro",
+        "value":"R$ 9.499,00",
+        "description": "15x de R$ 633,27  sem juros no cartão de crédito",
+        "type": "popular"
+    },
+    {
+        "image": "/imagens/iphone13.jpg", 
+        "name": "iPhone 13",
+        "value": "R$ 6.499,00",
+        "description": "10x de R$ 649,90 sem juros no cartão de crédito",
+        "type": "popular"
+    },
+    {
+        "image": "/imagens/Samsung Galaxy Z flip4.jpg", 
+        "name": "Galaxy Z Flip4",
+        "value": "R$ 6.749,00",
+        "description": "12x de R$ 624,99 sem juros no cartão de crédito",
+        "type": "popular"
+    },
+    {
+        "image": "/imagens/GalaxyZfold4.webp", 
+        "name": "Galaxy Z Fold 4",
+        "value": "R$ 11.519,00",
+        "description": "12x de R$ 1.066,57 sem juros no cartão de crédito",
+        "type": "popular"
+    },
+    {
+        "image": "/imagens/AirPodsMax.png", 
+        "name": "AirPods Max",
+        "value": "R$ 6.590,00",
+        "description": "12x de R$ 549,17 sem juros no cartão de crédito",
+        "type": "new"
+    },    {
+        "image": "/imagens/Beats.jpg", 
+        "name": "Fones de Ouvidos Beats Studio 3 Wireless",
+        "value": "R$ 3.099,00",
+        "description": "12x de R$ 258,25 sem juros no cartão de crédito",
+        "type": "popular"
+    },    {
+        "image": "/imagens/AirPods3.jpg", 
+        "name": "AirPods 3ªGeração",
+        "value": "R$ 1.999,00",
+        "description": "12x de R$ 166,58 sem juros no cartão de crédito",
+        "type": "new"
+    },    {
+        "image": "/imagens/capaProtetoraGalaxyFold.webp", 
+        "name": "Capinha Protetora Galaxy Fold 4s",
+        "value": "R$ 323,10",
+        "description": "5x de R$ 71,80 sem juros no cartão de crédito",
+        "type": "new"
+    },
+    {
+        "image": "/imagens/capaProtetoraCouroGalaxyZflip.jpg", 
+        "name": "Capa Protetora Couro Flap Galaxy Z Flip 4",
+        "value":"R$ 629,10",
+        "description": "1x de R$ 63,54 sem juros no cartão de crédito",
+        "type": "other"
+    },    {
+        "image": "/imagens/capatransparente.jpg", 
+        "name": "Capa transparente com MagSafe para iPhone 14",
+        "value": "R$ 575,00",
+        "description": "12x de R$ 47,92 sem juros no cartão de crédito",
+        "type": "other"
+    },    {
+        "image": "/imagens/carregadorMagSafe.jpg", 
+        "name": "Carregador MagSafe",
+        "value": "R$ 484,00",
+        "description": "12x de R$ 40,83 sem juros no cartão de crédito",
+        "type": "other"
+    }
+]

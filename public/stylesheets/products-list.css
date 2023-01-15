@@ -8,7 +8,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 0px 10px;
-  background-image: url('/images/home/banner-carrosel.svg');
+  background-image: url('/imagens/carrosel.png');
 }
 
 .box-search{
@@ -23,12 +23,12 @@
   background: transparent;
   width: 100%;
   text-align: center;
-  border: 1px solid #703A44;
+  border: 1px solid #ffffff;
   font-weight: 700;
   font-size: 20px;
   line-height: 27px;
   color: var(--text);
-  background-image: url('/images/header/lupa-input.svg');
+  background-image: url('/imagens/lupaicone.png');
   background-repeat: no-repeat;
   background-position: 12px;
   max-width: 440px;

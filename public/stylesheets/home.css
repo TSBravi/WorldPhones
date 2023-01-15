@@ -1,8 +1,8 @@
 :root {
-  --background: #F4F0EB;
-  --text: #151616;
-  --link: #797575;
-  --white: #fff;
+  --background:  #fa9a2c;
+  --text: #f7f7f7;
+  --link: #fff9f9;
+  --white: rgb(252, 252, 252);
   --button: #000000;
 }
 
@@ -19,15 +19,15 @@
 }
 
 #banner-1{
-  background-image: url('/images/home/banner-carrosel.svg');
+  background-image: url('/imagens/carrosel.png');
 }
 
 #banner-2{
-  background-image: url('/images/products/new/product-6.svg');
+  background-image: url('/imagens/AirPodsMax.png');
 }
 
 #banner-3{
-  background-image: url('/images/products/new/product-7.svg');
+  background-image: url('/imagens/iphone14pro.jpeg');
 }
 
 .banner-carrosel a {
@@ -57,14 +57,14 @@ cursor: pointer;
 height: 15px;
 width: 15px;
 margin: 0 2px;
-background-color: #bbb;
+background-color: rgb(255, 255, 255);
 border-radius: 50%;
 display: inline-block;
 transition: background-color 0.6s ease;
 }
 
 .active, .dot:hover {
-background-color: #717171;
+background-color: #ffffff;
 }
 
 .cards-infos{
